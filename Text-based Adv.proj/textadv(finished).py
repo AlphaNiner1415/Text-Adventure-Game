@@ -382,3 +382,4 @@ while gameover == False:
         print("Congratulations! You have found the temple ruins of Shicarta!")
         print ("You recover all the loss gold from the temple and sell it to go on and become one of the richest billionaires in the world.")
         print ("That's the whole game!\n Thanks for playing!\n ----------------------------------------------------------------------")
+        break
